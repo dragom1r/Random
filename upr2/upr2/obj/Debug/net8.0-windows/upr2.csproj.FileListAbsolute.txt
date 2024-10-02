@@ -1,0 +1,16 @@
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\bin\Debug\net8.0-windows\upr2.exe
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\bin\Debug\net8.0-windows\upr2.deps.json
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\bin\Debug\net8.0-windows\upr2.runtimeconfig.json
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\bin\Debug\net8.0-windows\upr2.dll
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\bin\Debug\net8.0-windows\upr2.pdb
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.Form1.resources
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.csproj.GenerateResource.cache
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.AssemblyInfoInputs.cache
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.AssemblyInfo.cs
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.csproj.CoreCompileInputs.cache
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.dll
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\refint\upr2.dll
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.pdb
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\upr2.genruntimeconfig.cache
+C:\Users\1409-3\Desktop\12a-gr2\upr2\upr2\obj\Debug\net8.0-windows\ref\upr2.dll
